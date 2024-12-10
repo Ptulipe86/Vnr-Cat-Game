@@ -3,10 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@pixi/react": "^7.1.2",
     "cra-template": "1.2.0",
+    "framer-motion": "^11.13.5",
+    "howler": "^2.2.4",
+    "pixi.js": "^8.6.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1"
+    "react-game-engine": "^1.2.0",
+    "react-scripts": "5.0.1",
+    "styled-components": "^6.1.13"
   },
   "scripts": {
     "start": "react-scripts start",
